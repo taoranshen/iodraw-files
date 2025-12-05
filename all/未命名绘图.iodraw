@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2kzSQ5V7DF8zajbFMN50-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="637" width="689" height="147" as="geometry" />
-        </mxCell>
         <mxCell id="C8rkSCa_Rm21QX7reS71-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;基于端到端学习的林下无人车导航任务研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-86" y="172" width="717" height="60" as="geometry" />
         </mxCell>
