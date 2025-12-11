@@ -1,10 +1,10 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="m1jQdkFFnjVkXDk2RvTL">
-    <mxGraphModel dx="1831" dy="799" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1402" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C8rkSCa_Rm21QX7reS71-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;基于端到端学习的林下无人车导航任务研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="C8rkSCa_Rm21QX7reS71-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;融合物理先验与时空语义的林下&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;无人车&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;导航&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;任务&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;研究&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-92" y="172" width="723" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8rkSCa_Rm21QX7reS71-2" value="&lt;div&gt;基于可微物理先验的导航策略优化机理研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
